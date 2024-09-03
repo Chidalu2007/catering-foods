@@ -118,6 +118,7 @@ justify-content: space-between;
 }
 .shift{
     margin-bottom: 25px;
+    font-weight: 100;
 }
 
 .omg{
@@ -134,8 +135,11 @@ h2 p{
  #Menu{
     text-align: center;
  }
- h2{
-    font-size: 20px;
+ #Menu-h2{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 40px;
+    font-weight: 100;
  }
 
  .contact-form{
